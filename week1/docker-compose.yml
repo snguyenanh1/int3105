@@ -1,0 +1,7 @@
+services:
+ remote:
+  build: .
+  ports:
+   - "5901:5901"
+   - "6000:22"
+
