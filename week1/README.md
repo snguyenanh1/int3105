@@ -1,9 +1,9 @@
-Cách chạy:\\
-1. Chạy \\
+Cách chạy:\
+1. Chạy 
 ~~~
 docker-compose up --build -d
 ~~~
-2. Chạy \\
+2. Chạy 
 ~~~
 ssh user@localhost -p 6000 #mật khẩu: 1234
 vncserver #cài đặt mật khẩu tùy thích
