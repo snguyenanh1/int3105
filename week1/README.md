@@ -1,4 +1,4 @@
-Cách chạy:\
+Cách chạy:
 1. Chạy 
 ~~~
 docker-compose up --build -d
